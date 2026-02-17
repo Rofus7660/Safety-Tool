@@ -7,6 +7,7 @@ Check the safety of any wbsite
 ![License](https://img.shields.io)
 ![Status](https://img.shields.io)
 
+
 **Safety Toll** is a lightweight, powerful safety assessment tool designed to evaluate the security posture of any website. Simply provide a URL, and our engine calculates a comprehensive safety score on a scale of 100.
 
 ## 🚀 Features
