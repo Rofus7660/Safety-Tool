@@ -3,10 +3,10 @@ Check the safety of any wbsite
 # 🛡️Safety Tool
 > Analyze website security instantly with a professional 0-100 safety score.
 
-#Version
+##Version
 V1.0.0
 
-#Updates
+##Updates
 -
 
 **Safety Toll** is a lightweight, powerful safety assessment tool designed to evaluate the security posture of any website. Simply provide a URL, and our engine calculates a comprehensive safety score on a scale of 100.
